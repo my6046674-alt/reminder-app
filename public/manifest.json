@@ -1,0 +1,21 @@
+{
+  "short_name": "Reminder",
+  "name": "Reminder App",
+  "description":"This is a locally usable reminder app built on React.",
+  "icons": [
+    {
+      "src": "/icon-128.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ff6900",
+  "background_color": "#ffffff"
+}
