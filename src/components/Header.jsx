@@ -9,7 +9,6 @@ const Header = () => {
 
     <h1 className="text-orange-500 text-xl font-semibold">Reminders</h1>
 
-        {/* Buttons */}
         <div className="inline-flex sm:order-2 space-x-3 sm:space-x-0 rtl:space-x-reverse">
 
           <Link 
@@ -21,7 +20,6 @@ const Header = () => {
           </Link>
         </div>
 
-        {/* Navigation */}
         <nav
           className="items-center justify-between hidden w-full sm:flex md:w-auto sm:order-1"
           id="navbar-cta"
